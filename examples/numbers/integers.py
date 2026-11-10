@@ -30,3 +30,4 @@ print(number, "is even?", number % 2 == 0)
 # 1. / always produces a float, even when the division is exact
 # 2. // keeps only the whole part
 # 3. % gives the remainder, and answers "is it a multiple of"
+print("Hello world")
